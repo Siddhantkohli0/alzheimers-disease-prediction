@@ -1,4 +1,4 @@
-# Alzheimer's Disease Prediction — Portfolio Project
+# Alzheimer's Disease Prediction | Portfolio Project
 
 A cleaned, leakage-safe rebuild of an end-to-end classification project using the public Alzheimer's Disease Dataset by Rabie El Kharoua.
 
